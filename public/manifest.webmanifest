@@ -1,0 +1,10 @@
+{
+  "name": "TurbulenceAlert EFB",
+  "short_name": "TurbulenceAlert",
+  "description": "Experience-based turbulence recognition and route checkpoint alerts.",
+  "start_url": "/route",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071321",
+  "theme_color": "#071321"
+}
